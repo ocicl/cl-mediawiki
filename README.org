@@ -1,0 +1,10 @@
+* cl-mediawiki
+
+A Common Lisp wrapper around the MediaWiki api
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/cl-mediawiki.git   |
+| commit  | 154d20e  |
+| systems | cl-mediawiki |
+|---------+-------------------------------------------|
+
